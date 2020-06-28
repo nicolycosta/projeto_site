@@ -1,0 +1,15 @@
+*{
+    font-family:Arial;
+    font-size:16px;
+
+}
+
+body  {
+    background-color: blanchedalmond;
+}
+main {
+    background-color: blue;
+    width: 50px;
+    margin: auto;
+    box-shadow: blueviolet;
+}
